@@ -1,0 +1,211 @@
+Hello: Su'Leimo
+Bye: Jehomeí
+Thanks: Niuxa
+He: Kyeo
+She: Kyei
+They: Kyen
+You: Dyeo
+I: Kxi
+Love: Auyí
+Hate: Iuya
+A2:
+Color: Xun
+Red: Chu
+Blue: Xe
+Yellow: Viu
+The: Shu
+Yes: Xu
+No: Zae
+Maybe: Ke
+Are: Xavei
+See: Yai
+A3:
+Good: Myeng'Xang
+Bad: Genxen
+Black: Ekknan
+White: Shinei
+Number: Cheo
+#A3:
+One: Che
+Two: Ni
+Three: Wa
+Four: Gé
+Five: Vi
+Six: Yen
+Seven: Kwa
+Eight: Zhei
+Nine: Re
+Ten: Jiu
+B1:
+100: Ho
+1000: Gwa
+Do: Era
+Try: Va'Keo
+Word: Lai
+Morning: Pei'Vhao
+Noon: Feuja
+Night: Gho'Lae
+Why: Jei'Xeo
+B2:
+Mother: Sheyu
+Father: Meunyo
+Grandfather: Yocha
+Grandmother: Ffenyo
+And: Thae
+Stupid: Chashi
+Believe: Valeí
+Window: Shaloko
+Go: É
+B3:
+This: Tsanggeu
+There: Ekyeo
+That: Dziuxu
+Where: Wei'Mao
+Over: Fan'Khae
+Under: Gyengeo
+Not: Ze
+Instead: Su
+More: Sheji
+Less: Ji'Mei
+C1:
+Stone: Ffen
+Am: Ffa
+So: Fa
+A/An: Vei
+True: Vae
+False: Rae
+To: Ka
+Everything: Shang
+Speak: Affi
+C2:
+Person/people: Chae'Sang
+Use: Kyao
+Particle 1 (ing): Ta
+Particle 2 (past tense): Ma
+Negative Modifier: Byao
+Can: Saemao
+Idiot: Mang'Bo
+It: Hei
+Very: Ji
+Is: Nyeo
+C3:
+When: Sei'Meol
+Name: Tenvai
+What: He'Sai
+How: Yekyen
+Be: Xi'Fe
+Eat: Je'Gyu
+Day: Reu
+Past: Pa'So
+Present: Gyeu
+Future: Tsa'Khi
+D1:
+Particle 3 (Possessive): Jeo
+Walk: Uchong
+Run: Fu'Kai
+Food: Byeo'Saul
+Where: Lai'Nao
+Lot/Quantity: Ffau'Tai
+Like: Pau'Ji
+Dislike: Khau'Ji
+In Nikwan
+Out: Vuchai
+D2:
+Have: Ho'Xi
+Who: Jya'Xin
+Then: Wu'Dai
+Mean: Bu
+About: San
+Ask: Hwa
+On: Neu
+Accident: Tyensa
+For: Mae
+D3:
+Off: Cha
+At: Va
+Sorry: Meon
+Friend: Tze'Leu
+Sure: Hong
+Check: Maetzau
+Should: Ge'Xi
+Could: Kxao'De
+Would: Raeyo
+E1:
+Guy(s): Chei
+Loud: Re'Tsao
+Quiet: Da'Shao
+Sleep: Bei
+Up: Yo
+Down: Pai
+Language: Ghan'Ni
+Because: Thanno
+Smart: Nyeo'Byan
+Green: Mei
+Orange: Ghem
+Purple: Va'Nem
+E2:
+Play/Hang-out: Kha'Thei
+Let: Seo
+Back: Laekkai
+Us: Geo'Ma
+Game: Ffe'Chai
+Video: Myo'Ta
+Give: Vhansua
+Those: Yeolten
+Talk: Chuan'Sao
+E3:
+Some: Gheu
+Time: Thao
+Think: Sha'Ti
+Your clothing is innapropriate for this situation: Chan'Kham'Bang
+Get: Sung
+From: Eul'Chai
+The Lejira Conlang (Github Version)
+
+Just: Jasua
+Take: Guji
+Or: Ne
+F1:
+Need: Vaeta'Song
+Actual: Changtuo
+Remember: Suo
+Quick note: Adverb formation uses the particle Jeo
+Most: Chuo
+Least: Ffanzae
+Find: Duawan
+Jump: Myeolsa
+Big: Fas'Chan
+Small: Jan'Yi
+F2:
+Done: Tae'Jansu
+But: Churaen
+Wait: Yeoseo
+Come: Juchai
+Front: Myeoja
+Of: Ha
+Want: Chi'Kwa
+We: Xenmí
+Beauty: Hwaeji
+F3:
+Dog: Deji
+Cat: Jae'Thai
+Quick note: Adding a -ji to the end of a word is equal to er (as in bigger) in English, and to create "Runner" you would use Diu, so runner would be Fu'Kai-Diu
+Please: Geulyo
+House: Asheyo
+Change: Seol
+All: Duasan
+Fast: Júxi
+Slow: Niyoma
+G1:
+30 Minutes: Gha
+15 Seconds: Jadai
+5 Seconds: Xi
+Boy: Fayeo
+Girl: Kyoyai
+Unidentified/Unknown Gender Gamsei
+Really: Daehon
+Hot: Gaehanho
+Cold: Xe'Dao
+Too: Juo
+Thing: Chekko
+Island: Juwakko
